@@ -1,0 +1,15 @@
+{
+  "name": "propquest",
+  "version": "1.0.0",
+  "description": "Property Quest | Repair and Maintenance Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/moraiseverton/propquest.git",
+  "author": "Everton Morais",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
